@@ -5,7 +5,7 @@ Este perfil é dedicado aos algoritmos que eu estudo e uso em **programação co
 🧮 **Matemática** <br>
 📐 **Geometria** <br>
 🌳 **Estrutura de Dados** <br>
-🔃 **Paradigmas da programação** <br>
+🔃 **Paradigmas de programação** <br>
 🔗 **Grafos**
 
 ---
