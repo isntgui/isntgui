@@ -13,7 +13,7 @@ Este perfil é dedicado aos algoritmos que eu estudo e uso em **programação co
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_guinelo/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/guinelo_cp)  
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-00A99D?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/999486)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-9B59B6?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/999486)
 
 ---
 ## 💻 Linguagens de programação que uso
