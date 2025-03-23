@@ -20,7 +20,7 @@ Este perfil é dedicado aos algoritmos que eu estudo e uso em **programação co
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-FFCC00?style=for-the-badge&logo=python&logoColor=black)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=black)
 
 ---
 ## 📊 Estatísticas
